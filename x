@@ -1,0 +1,11 @@
+[33mcommit fd054c92eee6e3db1b682e283c07b1cdb0ca7457[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m, [m[1;32mmain[m[33m)[m
+Author: Manuchehr Ahmadkhonov <manoujon@gmail.com>
+Date:   Tue Jan 25 09:53:59 2022 -0500
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit f566b91f4596e8180cc2f73ccf6768f364c96f7d[m
+Author: Manuchehr Ahmadkhonov <manoujon@gmail.com>
+Date:   Tue Jan 25 09:39:54 2022 -0500
+
+    added test.txt file
